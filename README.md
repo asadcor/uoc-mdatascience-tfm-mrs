@@ -1,6 +1,6 @@
 # Sistema de recomendación musical eHealth para mejorar la cognición y la motricidad en pacientes con Parkinson.
 
-Código asociado al Trabajo Fin de Máster de Adrià Cortés Andrés para el Máster de Ciencia de Datos de la Universitat Oberta de Catalunya (UOC).
+Código asociado al Trabajo Fin de Máster para el Máster universitario Online de Ciencia de Datos de la Universitat Oberta de Catalunya (UOC).
 
 ## Descripción del trabajo
 Este TFM busca implementar un sistema de recomendación musical que pueda ser utilizado por pacientes de Parkinson. Con este objetivo se abordan diferentes algoritmos como los de filtrado colaborativo, basados en contenido y de aprendizaje profundo. 
