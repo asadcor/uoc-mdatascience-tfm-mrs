@@ -13,6 +13,9 @@ Estas aproximaciones incluyen:
 - filtrado basado en contenido utilizando TF-IDF (Term Frequency Inverse Document Frequency)
 - un recomendador que utiliza Transformers
 
+## Librerías necesarias
+Las librerías necesarias para ejecutar los archivos se detallan al inicio de cada notebook.
+
 ## Detalle de los notebooks
 A continuación se incluye una breve descripción de los notebooks del repositorio:
 
